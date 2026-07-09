@@ -3,6 +3,11 @@
   'use strict';
 
   var SITES = [
+    { name: "NJ Buy Here Pay Here",       slug: "nj-buy-here",            type: "Used-car dealer",        cat: "Auto",     loc: "Perth Amboy, NJ" },
+    { name: "Melissa's Bakery",           slug: "melissas-bakery",        type: "Mexican bakery & comedor",cat: "Food",    loc: "Bound Brook, NJ", badge: "Online ordering" },
+    { name: "Legend Barber Shop",         slug: "legend-barber",          type: "Barbershop",             cat: "Grooming", loc: "Somerset, NJ" },
+    { name: "Parlin Discount Tire",       slug: "parlin-tire",            type: "Tire shop",              cat: "Auto",     loc: "Parlin, NJ" },
+    { name: "Taquería La Morenita",       slug: "la-morenita",            type: "Taquería",               cat: "Food",     loc: "New Brunswick, NJ" },
     { name: "Fajitas Mexican Restaurant", slug: "fajitas-mexican",       type: "Mexican restaurant",     cat: "Food",     loc: "North Brunswick, NJ", badge: "Online ordering" },
     { name: "Two Costas Bakery & Deli",   slug: "two-costas-bakery",      type: "Portuguese bakery & deli", cat: "Food",   loc: "Linden, NJ" },
     { name: "Irv's Auto Detailing",       slug: "irvs-auto-detailing",    type: "Auto detailing",         cat: "Auto",     loc: "Linden, NJ" },

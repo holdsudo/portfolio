@@ -14,6 +14,8 @@
     { name: "Four Boys Ice Cream",        slug: "four-boys-ice-cream",    type: "Ice cream shop",         cat: "Food",     loc: "Jamesburg, NJ" },
     { name: "Golden Garden",              slug: "golden-garden",          type: "Chinese restaurant",     cat: "Food",     loc: "Jamesburg, NJ" },
     { name: "Don Pepe Peruvian",          slug: "don-pepe-peruvian",      type: "Peruvian restaurant",    cat: "Food",     loc: "Jamesburg, NJ" },
+    { name: "G's Famous Pizza (Guallpa's)", slug: "gs-famous-pizza",      type: "Pizzeria",               cat: "Food",     loc: "Iselin, NJ", badge: "Online ordering" },
+    { name: "Metro Pizzeria",             slug: "metro-pizzeria-iselin",  type: "Pizzeria & desi specials", cat: "Food",   loc: "Iselin, NJ", badge: "Online ordering" },
     { name: "NJ Buy Here Pay Here",       slug: "nj-buy-here",            type: "Used-car dealer",        cat: "Auto",     loc: "Perth Amboy, NJ" },
     { name: "Melissa's Bakery",           slug: "melissas-bakery",        type: "Mexican bakery & comedor",cat: "Food",    loc: "Bound Brook, NJ", badge: "Online ordering" },
     { name: "Legend Barber Shop",         slug: "legend-barber",          type: "Barbershop",             cat: "Grooming", loc: "Somerset, NJ" },

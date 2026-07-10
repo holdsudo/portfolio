@@ -3,6 +3,17 @@
   'use strict';
 
   var SITES = [
+    // Wave 2 — Jamesburg / 08831 area (added 2026-07-09)
+    { name: "Gene's Hot Diggity Dog",     slug: "genes-hot-diggity-dog",  type: "Hot dog cart",           cat: "Food",     loc: "Jamesburg, NJ" },
+    { name: "John's Barber & Styling",    slug: "johns-barber-styling",   type: "Barbershop",             cat: "Grooming", loc: "Jamesburg, NJ" },
+    { name: "Seniors Barber Shop",        slug: "seniors-barber-shop",    type: "Barbershop",             cat: "Grooming", loc: "Jamesburg, NJ" },
+    { name: "The Fade Room",              slug: "the-fade-room",          type: "Barbershop",             cat: "Grooming", loc: "Jamesburg, NJ" },
+    { name: "Ralph's Barber Shop",        slug: "rafaels-barber",         type: "Barbershop",             cat: "Grooming", loc: "Spotswood, NJ" },
+    { name: "Mi Sazón Dominicano",        slug: "mi-sazon-dominicano",    type: "Dominican restaurant",   cat: "Food",     loc: "Jamesburg, NJ" },
+    { name: "El Rincón De Mi Tierra",     slug: "el-rincon-mi-tierra",    type: "Mexican restaurant",     cat: "Food",     loc: "Hillsborough, NJ" },
+    { name: "Four Boys Ice Cream",        slug: "four-boys-ice-cream",    type: "Ice cream shop",         cat: "Food",     loc: "Jamesburg, NJ" },
+    { name: "Golden Garden",              slug: "golden-garden",          type: "Chinese restaurant",     cat: "Food",     loc: "Jamesburg, NJ" },
+    { name: "Don Pepe Peruvian",          slug: "don-pepe-peruvian",      type: "Peruvian restaurant",    cat: "Food",     loc: "Jamesburg, NJ" },
     { name: "NJ Buy Here Pay Here",       slug: "nj-buy-here",            type: "Used-car dealer",        cat: "Auto",     loc: "Perth Amboy, NJ" },
     { name: "Melissa's Bakery",           slug: "melissas-bakery",        type: "Mexican bakery & comedor",cat: "Food",    loc: "Bound Brook, NJ", badge: "Online ordering" },
     { name: "Legend Barber Shop",         slug: "legend-barber",          type: "Barbershop",             cat: "Grooming", loc: "Somerset, NJ" },
